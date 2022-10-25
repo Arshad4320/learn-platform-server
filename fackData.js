@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Python",
+        "title": "As far as easy-to-learn programming languages go, Python is up there with the best of them. If you’re just starting out learning to code, there are few better places to start. ",
+        "description": "Python is an object-oriented, high-level programming language launched in 1992. It’s built in such a way that it’s relatively intuitive to write and understand, making it ideal for those who want rapid development. It’s a very popular language right now, meaning there are plenty of Python jobs available. ",
+        "image": "https://www.worthview.com/wp-content/uploads/2020/12/python-programming.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Java",
+        "title": "Another useful starting point for programming is to learn Java. It’s a versatile and general-purpose language that is similar to JavaScript and Python. ",
+        "description": "Java is a hugely popular object-oriented programming language. Part of its popularity comes from the fact that once you write a piece of code in Java, it can run on just about any device with the Java platform. The ‘write once, run anywhere’ concept at the heart of Java means it has many different uses. However, some of the main uses include for business software, web applications, and mobile apps.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-88_8yF9r6RKPAB9mcvg9kzoDsoeAi2zrA&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "C",
+        "title": "Let’s start off with one of the most established programming languages still used today, C. It’s also a highly influential language, making it a useful one to know the basics of. ",
+        "description": "The C programming language was first released back in 1972. It’s a high-level procedural language that has become one of the most widely-used ones out there. Despite its age, it’s still a relatively complex language, yet its influence can be seen in many others. C#, C++, Java, Python, and more all take elements of inspiration from C. ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycw44f_Z0VFPVGQduRghQsB-E1MYk4Yr2sALAmuSr3XWrgrC2YgaJtY8v8WVKG6p4f8U&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Javascript",
+        "title": "Despite its name, JavaScript isn’t directly related to Java. However, it does use a Java-like syntax, which is where the name comes from. If you’re interested in client-side web browser coding, this is a language you want to learn.  ",
+        "description": "JavaScript is a high-level, object-oriented programming language (although that second point is up for some debate). The language was created in the early days of the internet, back in 1995. You’ll find that all major web browsers have JavaScript support. As mentioned, JavaScript is a language used to write code that runs in web browsers. As such, it has a wide range of applications and is especially useful for making web pages interactive and responsive.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtSjtynhlJLcf-snjNi9wi5tmQ_ZNZBnqObQ&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "C++",
+        "title": "C++ is an Object-Oriented Programming Language, unlike C which is a procedural programming language. This is the most important feature of C++.",
+        "description": "C++ is an Object-Oriented Programming Language, unlike C which is a procedural programming language. This is the most important feature of C++. It can create/destroy objects while programming. Also, It can create blueprints with which objects can be created. We have discussed the Object-Orient Programming Concepts in C++ in this article.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG33FpAeZt4DgWu0gx1g7ix2OVxfPlf6mIAw&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Php",
+        "title": "PHP is another easy-to-learn coding language that is both free and open source. Much like JavaScript, it’s mainly used for coding on websites. ",
+        "description": "PHP: Hypertext Preprocessor is a high-level, object-oriented programming language. Although similar to JavaScript in some ways, PHP is a server-side rather than client-side scripting language that is embedded in HTML. As such, it is often used together with JavaScript. As one analogy puts it, if PHP is the paintbrush, JavaScript is the paint.  There are many uses for PHP, although mostly for website development. You can use it to manage dynamic content and databases on a website, for example.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG33FpAeZt4DgWu0gx1g7ix2OVxfPlf6mIAw&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "C#",
+        "title": "Among other languages, C# is gaining huge popularity for developing web-based applications. Its core concepts help build an interactive environment and provide functionalities that the dynamic web platform requires.",
+        "description": "C# is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS1lr9HYZiRxthZnQzcgN0rLH_pajkJQhacA&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Visual Basic",
+        "title": "Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe . NET apps.",
+        "description": "VB.NET stands for Visual Basic.NET, and it is a computer programming language developed by Microsoft. It was first released in 2002 to replace Visual Basic 6. VB.NET is an object-oriented programming language. This means that it supports the features of object-oriented programming which include encapsulation, polymorphism, abstraction, and inheritance.",
+        "image": "https://cdn1.vectorstock.com/i/1000x1000/85/55/visual-basic-programming-language-vector-23908555.jpg"
+    }
+]
