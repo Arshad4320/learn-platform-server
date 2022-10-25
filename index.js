@@ -6,20 +6,20 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.use(cors());
-const course = require('./fackData')
+const courseData = require('./Data/fackData.json')
 
 app.get('/', (req, res) => {
     res.send('learning site  is running ')
 })
 
 app.get('/course', (req, res) => {
-    res.send(course);
+    res.send(courseData);
 })
 
 app.get('/course/:id', (req, res) => {
-    const id = (req.params.id);
-    const course = course.find(ht => ht.id == id);
-    res.send()
+    const id = req.params.id;
+    const course = courseData.find(ht => ht.id == id);
+    res.send(course)
 })
 
 app.get('/course')
