@@ -21,6 +21,12 @@ app.get('/course/:id', (req, res) => {
     const course = courseData?.find(ht => ht.id == id);
     res.send(course)
 })
+app.get('/course/chackout/:id', (req, res) => {
+    const id = req.params.id;
+    const course = courseData?.find(ht => ht.id == id);
+    res.send(course)
+})
+
 
 app.get('/course')
 app.listen(port, () => {

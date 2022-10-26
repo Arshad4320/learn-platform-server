@@ -40,7 +40,7 @@
         "name": "C++",
         "title": "C++ is an Object-Oriented Programming Language, unlike C which is a procedural programming language. This is the most important feature of C++.",
         "description": "C++ is an Object-Oriented Programming Language, unlike C which is a procedural programming language. This is the most important feature of C++. It can create/destroy objects while programming. Also, It can create blueprints with which objects can be created. We have discussed the Object-Orient Programming Concepts in C++ in this article.",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG33FpAeZt4DgWu0gx1g7ix2OVxfPlf6mIAw&usqp=CAU",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FRxLAqd6uuZDomBzgY-kXwLALY8dv9-dWA&usqp=CAU",
         "rating": 4.2,
         "price": "490 $"
     },
@@ -49,7 +49,9 @@
         "name": "Php",
         "title": "PHP is another easy-to-learn coding language that is both free and open source. Much like JavaScript, it’s mainly used for coding on websites. ",
         "description": "PHP: Hypertext Preprocessor is a high-level, object-oriented programming language. Although similar to JavaScript in some ways, PHP is a server-side rather than client-side scripting language that is embedded in HTML. As such, it is often used together with JavaScript. As one analogy puts it, if PHP is the paintbrush, JavaScript is the paint.  There are many uses for PHP, although mostly for website development. You can use it to manage dynamic content and databases on a website, for example.",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG33FpAeZt4DgWu0gx1g7ix2OVxfPlf6mIAw&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG33FpAeZt4DgWu0gx1g7ix2OVxfPlf6mIAw&usqp=CAU",
+        "rating": 4.6,
+        "price": "486 $"
     },
     {
         "id": 7,
@@ -65,7 +67,7 @@
         "name": "Visual Basic",
         "title": "Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe . NET apps.",
         "description": "VB.NET stands for Visual Basic.NET, and it is a computer programming language developed by Microsoft. It was first released in 2002 to replace Visual Basic 6. VB.NET is an object-oriented programming language. This means that it supports the features of object-oriented programming which include encapsulation, polymorphism, abstraction, and inheritance.",
-        "image": "https://cdn1.vectorstock.com/i/1000x1000/85/55/visual-basic-programming-language-vector-23908555.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1pmgiF4zXOcFg-Kk1NMNXEgu5PKAm4YVFw&usqp=CAU",
         "rating": 5,
         "price": "200 $"
     }
